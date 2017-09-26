@@ -29,3 +29,15 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.carouselFont{
+  color: #000000;
+}
+
+.pictureCapt {
+  margin: 0;
+}
+
+footer{
+  margin-top: 1em;
+}
